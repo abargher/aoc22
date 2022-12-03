@@ -38,7 +38,3 @@ with open("../input/aoc-2-input.txt", "r") as f:
         total_score += score
 
 print(total_score)
-
-        
-
-
